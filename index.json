@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5",
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "overrides": [
+    {
+      "files": ["*.js", "*.jsx", "*.ts", "*.tsx"],
+      "options": {
+        "parser": "babel-ts"
+      }
+    },
+    {
+      "files": ["*.json"],
+      "options": {
+        "parser": "json"
+      }
+    },
+    {
+      "files": ["*.css", "*.module.css"],
+      "options": {
+        "parser": "css"
+      }
+    },
+    {
+      "files": ["*.sass", "*.scss"],
+      "options": {
+        "parser": "scss"
+      }
+    },
+    {
+      "files": ["*.html"],
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": ["*.md"],
+      "options": {
+        "parser": "markdown"
+      }
+    },
+    {
+      "files": ["*.mdx"],
+      "options": {
+        "parser": "mdx"
+      }
+    }
+  ]
+}

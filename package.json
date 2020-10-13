@@ -1,0 +1,23 @@
+{
+  "name": "@mxjoly/prettier-config",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Prettier config shared for all the @mxjoly packages.",
+  "bin": "init.js",
+  "author": "mxjoly <maxime.joly2808@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "prettier"
+  ],
+  "repository": "git+https://github.com/mxjoly/prettier-config.git",
+  "bugs": "https://github.com/mxjoly/prettier-config/issues",
+  "homepage": "https://github.com/mxjoly/prettier-config#readme",
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  },
+  "peerDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
