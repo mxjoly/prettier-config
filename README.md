@@ -1,6 +1,6 @@
 # Prettier Config
 
-Prettier config shared for all the [@mxjoly](https://github.com/mxjoly) packages published.
+A shared [Prettier](https://prettier.io/) config for all the [@mxjoly](https://github.com/mxjoly) packages.
 
 ## Installation
 

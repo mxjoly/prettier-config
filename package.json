@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "Prettier config shared for all the @mxjoly packages.",
+  "description": "A shared Prettier config for all the @mxjoly packages.",
   "bin": "init.js",
   "author": "mxjoly <maxime.joly2808@gmail.com>",
   "license": "MIT",
