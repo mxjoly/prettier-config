@@ -1,6 +1,6 @@
 {
   "name": "@mxjoly/prettier-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A shared Prettier config for all the @mxjoly packages.",
   "bin": "init.js",
   "author": "mxjoly <maxime.joly2808@gmail.com>",
@@ -12,9 +12,9 @@
   "bugs": "https://github.com/mxjoly/prettier-config/issues",
   "homepage": "https://github.com/mxjoly/prettier-config#readme",
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.6.2"
   },
   "peerDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.6.2"
   }
 }
